@@ -1,0 +1,3 @@
+function fetchWeatherData(){
+    prompt("hello")
+}
